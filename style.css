@@ -7,7 +7,7 @@
   }
 
   #showcase{
-    background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+    background-image: url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
     background-size:cover;
     background-position:center;
     height:100vh;
